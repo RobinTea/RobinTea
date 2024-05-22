@@ -8,6 +8,10 @@ What I am currently learning:
 - Blender
 - to be a good programmer
 
+Have a good day 
+<br>
+<img src="https://github.com/RobinTea/RobinTea/assets/142886484/c19e9294-00dc-4d13-9e94-9c95117386e0" width="72" height="72">
+
 <!--
 **RobinTea/RobinTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
