@@ -1,4 +1,10 @@
-## Hi there 👋
+## Good morning... or evening
+I am in the first year of IMS.
+What I am currently learning:
+- C# and C++
+- SQL
+- html, css and Java script
+- to be a good programmer
 
 <!--
 **RobinTea/RobinTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
