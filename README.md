@@ -5,7 +5,7 @@ What I am currently learning:
 - C# and C++
 - SQL
 - html, css and Java script
-- Blender
+- Python
 - to be a good programmer
 
 Have a good day (^^ゞ
