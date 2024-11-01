@@ -1,5 +1,5 @@
 ## Good morning... or evening
-I am in the first year of IMS.
+I am in the second year of IMS.
 <br>
 What I am currently learning:
 - C# and C++
