@@ -1,12 +1,12 @@
 ## Good morning... or evening
-I am in the second year of IMS.
+I am in my second year at the IMS.
 <br>
 What I am currently learning:
 - C# and C++
 - SQL
-- html, css and Java script
+- HTML, CSS and java script
 - Python
-- to be a good programmer
+- Becoming a good programmer
 
 
 <br>
