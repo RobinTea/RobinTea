@@ -4,9 +4,14 @@ I am in my second year at the IMS.
 What I am currently learning:
 - C# and C++
 - SQL
-- HTML, CSS and java script
 - Python
-- Becoming a good programmer
+- Backend / Frondend
+
+My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,html,css,js,python,vscode,unity,postman,docker&theme=dark&center=true&perline=5)](https://skillicons.dev)
+
+
 
 
 <br>
