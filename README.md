@@ -9,7 +9,7 @@ What I am currently learning:
 
 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,html,css,js,python,vscode,unity,postman,docker&theme=dark&center=true&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,html,css,js,python,vscode,unity,postman,docker,blender&theme=dark&center=true&perline=5)](https://skillicons.dev)
 
 
 
