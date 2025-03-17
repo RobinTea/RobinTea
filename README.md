@@ -13,7 +13,7 @@ My Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,html,css,js,python,vscode,postman,docker,blender,unity&theme=dark&center=true&perline=5)](https://skillicons.dev)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <br>
 <img src="https://github.com/RobinTea/RobinTea/assets/142886484/c19e9294-00dc-4d13-9e94-9c95117386e0" width="72" height="72">
