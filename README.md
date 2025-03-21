@@ -2,13 +2,12 @@
 I am in my second year at the IMS.
 <br>
 What I am currently working on:
-
-
-My Skills
 - C# and C++
 - SQL
 - Python
 - Backend / Frondend
+
+My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,html,css,js,python,vscode,postman,docker,blender,unity&theme=dark&center=true&perline=5)](https://skillicons.dev)
 
@@ -19,6 +18,8 @@ My Skills
 <img src="https://github.com/RobinTea/RobinTea/assets/142886484/c19e9294-00dc-4d13-9e94-9c95117386e0" width="72" height="72">
 
 <!--
+
+
 **RobinTea/RobinTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
