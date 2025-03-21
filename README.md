@@ -1,4 +1,4 @@
-## Good morning... or evening
+# Good morning... or evening
 I am in my second year at the IMS.
 <br>
 What I am currently working on:
@@ -7,7 +7,7 @@ What I am currently working on:
 - Python
 - Backend / Frondend
 
-My Skills
+## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,html,css,js,python,vscode,postman,docker,blender,unity&theme=dark&center=true&perline=5)](https://skillicons.dev)
 
