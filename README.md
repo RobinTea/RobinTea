@@ -1,4 +1,4 @@
-# Good morning... or evening
+# Good morning
 I am in my second year at the IMS.
 <br>
 What I am currently working on:
