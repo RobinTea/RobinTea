@@ -9,7 +9,7 @@ What I am currently working on:
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,html,css,js,python,vscode,postman,docker,blender,unity&theme=dark&center=true&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,html,css,js,python,vscode,postman,docker,blender,aws,git&theme=dark&center=true&perline=5)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinTea&layout=compact)
