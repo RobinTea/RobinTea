@@ -1,5 +1,6 @@
 # Good morning
 I'm in my third year at the IMS (Informatik Mittelschule)
+<br>
 searching for a one year internship (Informatiker/Applikationsentwickler EFZ) in switzerland
 <br>
 
@@ -24,9 +25,12 @@ searching for a one year internship (Informatiker/Applikationsentwickler EFZ) in
 - planing and implementing small projects*
 - nearly all office 365 tools
 
+
 <br>
-_*Can't show them because the schools tells us to delete them (because they reveal the exam)_
+Can't show them because the school *[Berufsfachschule Baden](https://www.bbbaden.ch/)*
+ say they reveal the exam
 <br>
+
 
 <br>
 Cantact:
