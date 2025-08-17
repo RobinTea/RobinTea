@@ -25,7 +25,7 @@ searching for a one year internship (Informatiker/Applikationsentwickler EFZ) in
 - Planning and implementing small projects*
 - Proficient in Nearly All Office 365 Tools
 
-**Cant show them because the school say they reveal the exam*
+**Can't show them because the school says they reveal the exam*
 <br>
 
 
