@@ -10,8 +10,8 @@ searching for a one year internship (Informatiker/Applikationsentwickler EFZ) in
 - NoSQL
 - Python
 - Backend / Frondend
-- Mobile Applications
-- DevOps processes
+- Mobile Application Development
+- DevOps Processes
 
 ## My Skills
 
@@ -20,14 +20,12 @@ searching for a one year internship (Informatiker/Applikationsentwickler EFZ) in
 - Networking infrastructure (basics)
 - HTML / CSS
 - Docker (basics)
-- using OOP and Agile Methods
-- Testing Applications (basics)
-- planing and implementing small projects*
-- nearly all office 365 tools
+- Object-Oriented Programming (OOP) and Agile Methods
+- Application Testing (basics)
+- Planning and implementing small projects*
+- Proficient in Nearly All Office 365 Tools
 
-
-<br>
-*Can't show them because the school say they reveal the exam*
+**Cant show them because the school say they reveal the exam*
 <br>
 
 
@@ -37,21 +35,6 @@ Cantact:
 robin.taing@hotmail.com (DE or ENG)
 
 <br>
+<br>
+<br>
 <img src="https://github.com/RobinTea/RobinTea/assets/142886484/c19e9294-00dc-4d13-9e94-9c95117386e0" width="72" height="72">
-
-<!--
-
-
-**RobinTea/RobinTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
