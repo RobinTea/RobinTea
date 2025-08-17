@@ -27,7 +27,7 @@ searching for a one year internship (Informatiker/Applikationsentwickler EFZ) in
 
 
 <br>
-Can't show them because the school say they reveal the exam
+*Can't show them because the school say they reveal the exam*
 <br>
 
 
