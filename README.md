@@ -1,7 +1,7 @@
 # Good morning
 I'm in my third year at the IMS (Informatik Mittelschule)
 <br>
-searching for a one year Apprenticeship (Informatiker/Applikationsentwickler EFZ) in switzerland for 2026-27
+Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentwickler EFZ) in switzerland.
 <br>
 
 ## What I am currently learning:
