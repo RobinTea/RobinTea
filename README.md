@@ -32,7 +32,7 @@ searching for a one year internship (Informatiker/Applikationsentwickler EFZ) in
 <br>
 Cantact:
 <br>
-robin.taing@hotmail.com (DE or ENG)
+robin.taing@hotmail.com (DE or EN)
 
 <br>
 <br>
