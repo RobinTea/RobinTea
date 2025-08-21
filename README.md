@@ -9,7 +9,6 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 - C++
 - NoSQL
 - Python
-- Backend / Frondend
 - Mobile Application Development
 - DevOps Processes
 
@@ -22,6 +21,7 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 - Docker (basics)
 - Object-Oriented Programming (OOP) and Agile Methods
 - Application Testing (basics)
+- Backend / Frontend
 - Planning and implementing small projects*
 - Proficient in Nearly All Office 365 Tools
 
