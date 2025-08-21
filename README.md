@@ -7,7 +7,7 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 ## What I am currently learning:
 
 - C++
-- NoSQL
+- NoSQL / MongoDB
 - Python
 - Mobile Application Development
 - DevOps Processes
