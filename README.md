@@ -23,8 +23,8 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 - Backend / Frontend
 - Application Testing (basics)
 - Networking infrastructure (basics)
-- Planning and implementing small projects*
 - Proficient in Nearly All Office 365 Tools
+- Planning and implementing small projects*
 - Object-Oriented Programming (OOP) and Agile Methods
 
 **Can't show them because the school says they reveal the exam*
