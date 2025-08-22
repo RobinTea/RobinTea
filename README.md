@@ -7,10 +7,10 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 ## What I am currently learning:
 
 - C++
-- NoSQL / MongoDB
 - Python
-- Mobile Application Development
+- NoSQL / MongoDB
 - DevOps Processes
+- Mobile Application Development
 
 ## My Skills
 
@@ -18,14 +18,14 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 - SQL
 - Git
 - PowerShell
-- Networking infrastructure (basics)
 - HTML / CSS
 - Docker (basics)
-- Object-Oriented Programming (OOP) and Agile Methods
-- Application Testing (basics)
 - Backend / Frontend
+- Application Testing (basics)
+- Networking infrastructure (basics)
 - Planning and implementing small projects*
 - Proficient in Nearly All Office 365 Tools
+- Object-Oriented Programming (OOP) and Agile Methods
 
 **Can't show them because the school says they reveal the exam*
 <br>
