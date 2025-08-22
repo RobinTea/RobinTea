@@ -16,6 +16,8 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 
 - C#
 - SQL
+- Git
+- PowerShell
 - Networking infrastructure (basics)
 - HTML / CSS
 - Docker (basics)
