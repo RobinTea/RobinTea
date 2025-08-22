@@ -16,13 +16,14 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 ## My Skills
 
 - C#
-- SQL
 - Git
+- SQL
 - PowerShell
 - HTML / CSS
 - Docker (basics)
 - Backend / Frontend
 - Application Testing (basics)
+- basic predictions with Jupyter
 - Networking infrastructure (basics)
 - Proficient in Nearly All Office 365 Tools
 - Planning and implementing small projects
