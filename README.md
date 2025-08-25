@@ -7,6 +7,7 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 ## What I am currently learning:
 
 - C++
+- PHP
 - Python
 - Javascript
 - DevOps Processes
