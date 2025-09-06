@@ -9,7 +9,7 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 - PHP
 - C++
 - Python
-- Javascript
+- JavaScript
 - DevOps Processes
 - NoSQL / MongoDB
 - Mobile Application Development
