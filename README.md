@@ -14,6 +14,7 @@ Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentw
 - Expo
 - Python
 - Tailwind
+- Bootstrap
 - JavaScript
 - PowerShell
 - HTML / CSS
