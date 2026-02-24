@@ -4,13 +4,14 @@ I'm in my third year at the IMS (Informatik Mittelschule)
 Searching for a one year (2026-27) Apprenticeship (Informatiker/Applikationsentwickler EFZ) in switzerland. (I am flexible)
 <br>
 
-## Tech I have used
+## Tech I have experience with
 
 - C#
 - Git
 - SQL
 - PHP
 - C++
+- Expo
 - Python
 - Tailwind
 - JavaScript
