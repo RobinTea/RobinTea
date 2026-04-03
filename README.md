@@ -2,7 +2,7 @@
 
 <img width="3678" height="825" alt="Screenshot 2026-04-03 002411" src="https://github.com/user-attachments/assets/c3fc6291-39f7-41dd-b48c-42898e2b4852" />
 
-<br><br>
+<br>
 
 I'm in my third year at the IMS (Informatik Mittelschule)
 <br>
@@ -11,13 +11,11 @@ Searching for a one year (2026-27 / 2027-28) Apprenticeship (Informatiker/Applik
 
 ## Tech
 
-- C#
-- C++
-- Python
-- JavaScript/Html & CSS
-- SQL
+| C# | C++ | Python | JavaScript | Html & CSS | SQL |
+|---:|:---:|:------:|:----------:|:----------:|:-----|
 
-https://robintea.github.io/portfolio/
+| https://robintea.github.io/portfolio/ |
+|---------------------------------------|
 
 <br>
 
