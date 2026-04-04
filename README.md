@@ -15,6 +15,8 @@ Please [Contact](#contact) me
 
 <br>
 
+<img width="3681" height="1079" alt="image" src="https://github.com/user-attachments/assets/e944dfa2-9d0a-4623-8e67-21958602ffe1" />
+
 ## Tech I've worked with
 
 | C# | C++ | Python | JavaScript | Html & CSS | SQL |
@@ -25,7 +27,7 @@ Please [Contact](#contact) me
 
 <br>
 
-<img width="3681" height="1079" alt="image" src="https://github.com/user-attachments/assets/e944dfa2-9d0a-4623-8e67-21958602ffe1" />
+
 
 ## Contact
 | robin.taing@hotmail.com (DE/EN) |
