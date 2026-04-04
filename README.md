@@ -1,14 +1,17 @@
-# Good morning
+
 
 <img width="3678" height="825" alt="Screenshot 2026-04-03 002411" src="https://github.com/user-attachments/assets/c3fc6291-39f7-41dd-b48c-42898e2b4852" />
 
-<br><br>
-
+# Good morning
 | about |  
 |:--------|
 
-I'm in my third year at the IMS (Informatik Mittelschule) <br>
-Searching for an Internship (Informatiker/Applikationsentwickler EFZ) one or two years (2026-27 / 2027-28) in switzerland.
+I'm in my third year at the IMS (Informatik Mittelschule) <br><br>
+| Searching for an Internship |
+|-----------------------------|
+
+**Informatiker/Applikationsentwickler EFZ** one or two years (2026-27 / 2027-28) in switzerland. <br>
+Please [Contact](#contact) me 
 
 <br>
 
@@ -24,7 +27,7 @@ Searching for an Internship (Informatiker/Applikationsentwickler EFZ) one or two
 
 <img width="3681" height="1079" alt="image" src="https://github.com/user-attachments/assets/e944dfa2-9d0a-4623-8e67-21958602ffe1" />
 
-## Cantact
+## Contact
 | robin.taing@hotmail.com (DE/EN) |
 |---------------------------------------|
 <br>
