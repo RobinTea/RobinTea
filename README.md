@@ -11,7 +11,7 @@ I'm in my third year at the IMS (Informatik Mittelschule) <br><br>
 |-----------------------------|
 
 **Informatiker/Applikationsentwickler EFZ** one or two years (2026-27 / 2027-28) in switzerland. <br>
-Please [Contact](#contact) me 
+Don't be shy and [contact](#contact) me 
 
 <br>
 
